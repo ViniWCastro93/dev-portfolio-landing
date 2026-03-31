@@ -37,3 +37,12 @@ https://www.linkedin.com/in/vinicius-castro-11a543390
 
 GitHub:  
 https://github.com/ViniWCastro93
+
+## 📁 Estrutura do projeto
+
+dev-portfolio-landing
+│
+├── index.html
+├── style.css
+├── script.js
+└── README.md
