@@ -1,0 +1,29 @@
+body{
+font-family: Arial;
+margin:0;
+background:#111;
+color:white;
+text-align:center;
+}
+
+header{
+padding:60px;
+}
+
+a{
+color:white;
+margin:10px;
+text-decoration:none;
+border:1px solid white;
+padding:10px;
+border-radius:5px;
+}
+
+section{
+padding:40px;
+}
+
+ul{
+list-style:none;
+padding:0;
+}
